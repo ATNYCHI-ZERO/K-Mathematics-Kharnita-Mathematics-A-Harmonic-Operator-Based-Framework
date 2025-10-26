@@ -1,0 +1,51 @@
+K-Mathematics License (Strict Copyleft Edition)
+
+Code License — GNU General Public License v3.0
+
+Copyright (C) 2025 Brendon Kelly
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, version 3.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+
+ All modified or redistributed versions must be open-sourced under GPLv3.
+ You cannot include this code in closed, commercial systems without releasing source.
+ You may use it freely in research, education, and open infrastructure.
+ You may not strip author names or imply endorsement.
+
+Applies to: All code, algorithms, implementations, executable logic, and scripts in this repository.
+
+Content License — Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)
+
+All formal mathematics, theorems, definitions, and academic writings (including the paper) are licensed under:
+
+You are free to:
+
+ Share — copy and redistribute the material in any medium or format
+
+ Adapt — remix, transform, and build upon it, even commercially
+
+Under the following terms:
+
+ Attribution — You must give proper credit to Brendon Kelly, provide a link to the license, and indicate if changes were made.
+
+ ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+License text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Attribution Required — Recommended Format:
+
+“K-Mathematics: Harmonic Operator Base System” (2025) by Brendon Kelly, licensed under GPLv3 (code) and CC BY-SA 4.0 (content).
+
+Notice of Enforcement
+
+Use of this framework in defense, AI, academic, or critical infrastructure systems must retain all author attribution, licensing terms, and recursive integrity tracking mechanisms embedded in K-Math. Unauthorized removal or obfuscation of those components is a breach of license and may constitute ethical and legal violation.
